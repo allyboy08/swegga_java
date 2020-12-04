@@ -1,0 +1,48 @@
+.left {
+  height: 430px;
+  width: 150px;
+  background-color: khaki;
+  margin-bottom: 0.7em;
+  float: left;
+}
+
+.head {
+  height: 85px;
+  width: 400px;
+  margin-bottom: 1em;
+}
+.nav {
+  margin-left: 150px;
+  margin-top: 1em;
+  width: 45px;
+
+  height: 50px;
+}
+.main {
+  border-collapse: collapse;
+  margin-left: 150px;
+}
+.caption {
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-size: 50px;
+  color: #4766b8;
+}
+html {
+  background-color: yellow;
+}
+.page {
+  width: 910px;
+  background-color: khaki;
+  margin: 10px auto;
+  border: 2px solid black;
+}
+.copyright {
+  font-size: 90%;
+  text-align: right;
+  margin: 0;
+}
+input {
+  width: 150px;
+}
